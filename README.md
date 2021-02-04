@@ -1,0 +1,2 @@
+# SkinnyTies
+Interview task solution
